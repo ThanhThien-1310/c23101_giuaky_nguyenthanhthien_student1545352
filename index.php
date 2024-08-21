@@ -91,9 +91,9 @@ $result = mysqli_query($conn, $sql);
         <a href="add_books.php" class="btn btn-success mt-4">Add new book</a>
     </div>
 
-    <!-- Thêm jQuery -->
+    <!-- jQuery -->
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-    <!-- Thêm Bootstrap JS -->
+    <!-- Bootstrap JS -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 
